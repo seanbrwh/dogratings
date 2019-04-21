@@ -1,5 +1,5 @@
-#Dog ratings
+```Dog ratings
 
-##Clone repo
-##NPM i
-##Npm run serve
+Clone repo
+NPM i
+Npm run serve
